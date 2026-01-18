@@ -1,0 +1,42 @@
+.create {
+    background-color: #1d6bae;
+    color: rgb(23, 215, 23);
+    padding: 10px 100px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.login{
+    background-color: #1cceff;
+    color: yellow;
+    padding: 10px 100px;
+    border: 20px;
+    border-radius: 50px ;
+}
+button:hover {
+    background-color: #4b051e;
+}
+
+body {
+    background-color: #9115b0;
+}
+img{
+    border-radius: 2000px ; 
+    width: 150px;
+    height: 150px;
+    padding: 15px 1px;
+}
+
+.link{
+    color: rgb(13, 192, 108);
+    text-decoration: none;
+    font-size: 14px;
+}
+.link:hover {
+    text-decoration: underline;
+}
+.shelby{
+    color: rgba(250, 235, 215, 0.575) ;
+    text-shadow: text 10px;
+}
+
